@@ -7,6 +7,7 @@ public class BuildForSmoke {
 	public void main()
 	{
 		System.out.println("SmokeTest");
+		//poll scm test
 	}
 
 }
