@@ -3,7 +3,7 @@ package jenkins_practice;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
-public class JenkinsParameters {
+public class JenkinsParametersTest {
 	@Test
 	public void main3()
 	{
